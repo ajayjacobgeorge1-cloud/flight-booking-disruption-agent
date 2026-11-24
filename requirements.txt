@@ -1,0 +1,3 @@
+claude-agent-sdk>=0.2.188
+python-dotenv>=1.0.0
+streamlit>=1.38.0
